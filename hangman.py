@@ -199,9 +199,9 @@ def hangman(secret_word, with_help):
 
 if __name__ == "__main__":
     # To test your game, uncomment the following three lines.
-    secret_word = "hi"
-    with_help = False
-    hangman(secret_word, with_help)
+    # secret_word = "hi"
+    # with_help = False
+    # hangman(secret_word, with_help)
 
     # After you complete with_help functionality, change with_help to True
     # and try entering "!" as a guess!
